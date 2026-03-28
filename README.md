@@ -1,9 +1,5 @@
 # Hi, I'm Shailja Sharan 👋
-
 🎓 First Year BTech Student  
-💻 Exploring programming and digital skills  
-🌱 Currently learning and building my foundation in tech  
-
 ---
 
 ## 🚀 About Me
@@ -12,7 +8,6 @@
 - ⚡ Interest: Technology, design, and problem-solving
 
 ---
-
 ## 🛠️ Skills (Learning Phase)
 - Basic Programming
 - GitHub & Version Control
