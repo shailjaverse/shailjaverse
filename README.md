@@ -1,3 +1,34 @@
+# Hi, I'm Shailja Sharan 👋
+
+🎓 First Year BTech Student  
+💻 Exploring programming and digital skills  
+🌱 Currently learning and building my foundation in tech  
+
+---
+
+## 🚀 About Me
+- 📚 Branch: Computer Science 
+- 🎯 Goal: To become a skilled developer and build impactful projects
+- ⚡ Interest: Technology, design, and problem-solving
+
+---
+
+## 🛠️ Skills (Learning Phase)
+- Basic Programming
+- GitHub & Version Control
+- Digital Literacy Tools
+
+---
+
+## 📌 Current Focus
+- Improving coding skills  
+- Building projects  
+- Learning new technologies  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/shailja-sharan-145423365?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ## Hi there 👋
 
 <!--
